@@ -1,0 +1,2 @@
+step1 -> we will store images that are to be classified in images folder 
+step2 -> we will install all thing
